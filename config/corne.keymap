@@ -27,7 +27,7 @@
         lang: lang {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LS(LEFT_ALT)>;
+            bindings = <&kp LG(SPACE)>;
             label = "LANG";
         };
     };
